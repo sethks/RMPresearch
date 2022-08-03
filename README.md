@@ -34,7 +34,7 @@ and the Languages department had the most reviews, why is it that the top 25 mos
 
 ## Conclusion
 Using more SQL searches I found that there are over 500 combined professors in each of these departments; around 230 for Writing and 280 for Languages, while
-the most popular at BU, Business, has only about 100 professors. Additionally, Computer Science which sits at rank 5 for the most popular major at BU has around 140
+the most popular major at BU, Business, has only about 100 professors. Additionally, Computer Science which sits at rank 5 for the most popular major at BU has around 140
 professors. This could mean a plethora of things but a conclusion that I came to was that BU has a vast amount of courses in Writing because of how many courses
 and topics BU offer in Writing specifically. To my knowledge, going through a Business or Computer Science major is quite simple and linear with not many extra curricular courses offering anything towards your graduation. It makes sense that there would be less professors for these two majors compared to Writing. As for Languages having the most unique amount of professors at BU...
 
