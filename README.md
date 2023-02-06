@@ -1,5 +1,5 @@
 # RMPresearch
-This project idea came to me over the summer while I was registering for fall classes at Boston University. When we as students search professors and their courses on RateMyProfessor, we end up with a simple rating from 1 - 5 by students. As I was looking through each professor I started forming questions such as "What is the average rating for the entire Computer Science department?", and "Since I need an elective, what are the most popular and well rated coureses at BU?". 
+This project idea came to me over the summer while I was registering for fall classes at Boston University. When students search for professors and their courses on RateMyProfessor, they end up with a simple rating from 1 to 5, given by other students. As I was looking through each professor's rating, I started forming questions such as "What is the average rating for the entire Computer Science department?" and "Since I need an elective, what are the most popular and highly rated courses at BU?".
 
 
 
@@ -21,7 +21,7 @@ One of those happened to be Tableau which is one of the most powerful data visua
 
 A very interesting find was that two of the highest rated departments at BU are Writing and Language. Not only are they the two highest rated departments, but they also have of the most reviews out of any department. I personally thought the Business department would have had more as it is the most popular major at BU.
 
-Taking this into consideration I ended up with even more questions, and though tableau is amazing... it doesn't always tell the full story. Knowing this I imported the data into a MySQL server and using SQL I was able to dig even deeper.
+Taking this into consideration, I ended up with even more questions. Although Tableau is amazing, it doesn't always tell the full story. Knowing this, I imported the data into a MySQL server and used SQL to dig even deeper.
 
 ![image](assets/sqll3.png)
 
@@ -29,7 +29,6 @@ This SQL search pulled up the number of ratings from professors with the most re
 and the Languages department had the most reviews, why is it that the top 25 most reviewed professors are not in either of those departments? 
 
 ## Conclusion
-Using more SQL searches I found that there are over 500 combined professors in each of these departments; around 230 for Writing and 280 for Languages, while
-the most popular major at BU, Business, has only about 100 professors. The trend that became clear was that the Writing and Language departments have much more thorough reviews on **EACH** professor in their respective departments. The average review count for a professor in either Writing or the Languages department was 15 and 14 respectively, while for business it was only 11. Overall, each professor in the Writing and Languages department get more reviews per professor **and** have much less professors with zero reviews.
+Using more SQL searches, I found that there are over 500 combined professors in each of the departments; around 230 for Writing and 280 for Languages, while the most popular major at BU, Business, has only about 100 professors. The trend that became clear was that the Writing and Language departments have much more thorough reviews on each professor in their respective departments. The average review count for a professor in either Writing or the Languages department was 15 and 14, respectively, while for business, it was only 11. Overall, each professor in the Writing and Languages departments receive more reviews per professor and have fewer professors with zero reviews.
 
 
